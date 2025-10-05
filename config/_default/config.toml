@@ -19,3 +19,8 @@ disqusShortname = "hugo-theme-stack"
 pagerSize = 5
 
 disableHugoGeneratorInject = true
+
+# Cache location
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
