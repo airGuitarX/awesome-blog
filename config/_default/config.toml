@@ -1,4 +1,5 @@
 # Change baseurl before deploy
+baseURL = "https://airGuitarX.github.io/"
 theme = "hugo-theme-stack"
 languageCode = "en-us"
 title = "自留地"
