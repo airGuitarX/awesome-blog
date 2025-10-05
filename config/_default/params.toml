@@ -5,9 +5,10 @@ rssFullContent = true
 # expecting to find favicon.png in your static/ directory.
 favicon = "/favicon.png"
 
+
 [footer]
 since = 2025
-customText = ""
+customText = "试试就试试"    # leave empty to hide custom text
 
 [dateFormat]
 published = "2006-01-02"
