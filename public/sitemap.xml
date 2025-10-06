@@ -2,37 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://airGuitarX.github.io/p/2025-job-hunting-summary/</loc>
+    <loc>http://localhost:1313/p/2025-job-hunting-summary/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://airGuitarX.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://airGuitarX.github.io/categories/</loc>
+    <loc>http://localhost:1313/tags/jobhunting/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://airGuitarX.github.io/tags/jobhunting/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://airGuitarX.github.io/post/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://airGuitarX.github.io/tags/</loc>
+    <loc>http://localhost:1313/categories/work/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://airGuitarX.github.io/categories/work/</loc>
-    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://airGuitarX.github.io/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://airGuitarX.github.io/page/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/example-category/</loc>
   </url><url>
-    <loc>https://airGuitarX.github.io/categories/example-category/</loc>
+    <loc>http://localhost:1313/links/</loc>
   </url><url>
-    <loc>https://airGuitarX.github.io/links/</loc>
-  </url><url>
-    <loc>https://airGuitarX.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>
