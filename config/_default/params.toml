@@ -21,7 +21,7 @@ subtitle = "Surrender is not an option"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar-kq.jpg"
+src = "img/snoopy_avatar.JPG"
 
 [article]
 headingAnchor = false

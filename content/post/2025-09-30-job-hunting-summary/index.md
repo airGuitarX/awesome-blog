@@ -1,5 +1,6 @@
 ---
 title: 2025 找工总结
+author: RR
 description: 2025 找工总结
 slug: 2025-job-hunting-summary
 date: 2025-10-06 00:00:00+0000
@@ -14,7 +15,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 ## 找工时间线与整体总结
 
-我： 8yoe, general SDE，毕业以来第一次找工……
+我： 8yoe, general SDE
 
 去年11月左右全组人都跑光了，关系很好的同事要么离职要么转组，原组直接解散让我萌生了跑路的想法，加上公司准备从2025年开始RTO5，更不想呆了。被动并入姐妹组之后发现oncall十分阴间，于是立刻决定年底开始刷题。
 

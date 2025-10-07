@@ -1,5 +1,6 @@
 ---
 title: "About"
+author: RR
 date: 2025-10-06
 slug: "about"
 menu:
