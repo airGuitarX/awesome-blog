@@ -10,7 +10,8 @@ hugo server
 hugo server -D
 # start local server, ignore its cache directory and performs a full re-render of the entire site
 hugo server --disableFastRender --ignoreCache
-
+# This prints your effective configuration
+hugo config
 ```
 
 

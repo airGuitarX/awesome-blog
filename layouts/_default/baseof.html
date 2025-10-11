@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}" dir="{{ default `ltr` .Language.LanguageDirection }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+    <!-- Page title -->
+    <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  
+    <!-- Meta description (safe handling) -->
+    {{- $desc := "" -}}
+    {{- if .IsHome -}}
+      {{- with .Site.Params.description -}}
+        {{- $desc = . -}}
+      {{- end -}}
+    {{- else -}}
+      {{- with .Params.description -}}
+        {{- $desc = . -}}
+      {{- end -}}
+    {{- end -}}
+    <meta name="description" content="{{ $desc | safeHTMLAttr }}">
+  
+    <!-- Google indexing -->
+    <meta name="robots" content="index, follow">
+  
+    <!-- Open Graph / social -->
+    <meta property="og:title" content="{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
+    <meta property="og:description" content="{{ $desc | safeHTMLAttr }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:image" content="{{ .Site.Params.ogImage }}">
+  
+    <!-- Optional Twitter card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
+    <meta name="twitter:description" content="{{ $desc | safeHTMLAttr }}">
+    <meta name="twitter:image" content="{{ .Site.Params.ogImage }}">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    <!-- Include site-wide CSS, fonts, etc. -->
+    {{- partial "head/head.html" . -}}
+  
+    <!-- Extra page-specific head content -->
+    {{- block "head" . -}}{{ end }}
+</head>
+<body class="{{ block `body-class` . }}{{ end }}">
+    {{- partial "head/colorScheme" . -}}
+
+    {{/* The container is wider when there's any activated widget */}}
+    {{- $hasWidget := false -}}
+    {{- range .Site.Params.widgets -}}
+        {{- if gt (len .) 0 -}}
+            {{- $hasWidget = true -}}
+        {{- end -}}
+    {{- end -}}
+    <div class="container main-container flex on-phone--column {{ if $hasWidget }}extended{{ else }}compact{{ end }}">
+        {{- block "left-sidebar" . -}}
+            {{ partial "sidebar/left.html" . }}
+        {{- end -}}
+        {{- block "right-sidebar" . -}}{{ end }}
+        <main class="main full-width">
+            {{- block "main" . }}{{- end }}
+        </main>
+    </div>
+    {{ partial "footer/include.html" . }}
+</body>
+</html>

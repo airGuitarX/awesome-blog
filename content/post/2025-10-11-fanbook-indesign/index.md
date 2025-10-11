@@ -1,7 +1,7 @@
 ---
 title: Abobe InDesign 制作同人本不完全查漏补缺
 author: RR
-description: 本人（0 InDesign基础）现学现卖几次实践之后认为值得记录的小技巧/注意点
+description: 本人（0 InDesign基础, 有少许PS和AI经验）现学现卖制作同人本（文本），几次实践之后记录的小技巧/注意点。
 slug: InDesign-fanbook-making
 date: 2025-10-10 00:00:00+0000
 image: typography.jpg

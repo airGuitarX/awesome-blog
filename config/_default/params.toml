@@ -5,10 +5,12 @@ rssFullContent = true
 # expecting to find favicon.png in your static/ directory.
 favicon = "/favicon.png"
 
+# site description
+description = "这里是KK和RR的玉米地。关于生活，工作，同人，绘画和写作，以及任何想要分享的实用小知识～"
 
 [footer]
 since = 2025
-customText = "试试就试试"    # leave empty to hide custom text
+customText = ""    # leave empty to hide custom text
 
 [dateFormat]
 published = "2006-01-02"

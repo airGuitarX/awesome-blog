@@ -1,0 +1,57 @@
+{{- define "main" -}}
+
+<div class="sitemapDiv">
+  <h1>Sitemap</h1>
+  <p class="sitemap-intro">This page provides a complete overview of all content on this site. You can also access the <a href="{{ site.BaseURL }}sitemap.xml">XML sitemap</a> for search engines.</p>
+  
+  <h2>Main Pages</h2>
+  <ul>
+    <li><a href="{{ site.BaseURL }}">Home</a></li>
+    {{- range where site.RegularPages "Type" "page" -}}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{- end -}}
+  </ul>
+  
+  <h2>Blog Posts</h2>
+  <ul>
+  {{- range where site.RegularPages "Type" "post" -}}
+    <li>
+      <strong><a href="{{ .Permalink }}">{{ .Title }}</a></strong>
+      {{- if .Description -}}
+      <br /><span class="description">{{ .Description }}</span>
+      {{- end -}}
+      <br /><small class="sitemap-meta">Published: {{ .Date.Format "January 2, 2006" }}</small>
+    </li>
+  {{- end -}}
+  </ul>
+  
+  {{- if site.Taxonomies.categories -}}
+  <h2>Categories</h2>
+  <ul>
+  {{- range site.Taxonomies.categories -}}
+    <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> ({{ .Count }} {{ if eq .Count 1 }}post{{ else }}posts{{ end }})</li>
+  {{- end -}}
+  </ul>
+  {{- end -}}
+  
+  {{- if site.Taxonomies.tags -}}
+  <h2>Tags</h2>
+  <ul>
+  {{- range site.Taxonomies.tags -}}
+    <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> ({{ .Count }} {{ if eq .Count 1 }}post{{ else }}posts{{ end }})</li>
+  {{- end -}}
+  </ul>
+  {{- end -}}
+  
+  <!-- <h2>RSS Feeds</h2>
+  <ul>
+    <li><a href="{{ site.BaseURL }}index.xml">Main RSS Feed</a></li>
+    {{- if site.Taxonomies.categories -}}
+    {{- range site.Taxonomies.categories -}}
+    <li><a href="{{ .Page.Permalink }}index.xml">{{ .Page.Title }} RSS Feed</a></li>
+    {{- end -}}
+    {{- end -}}
+  </ul> -->
+</div>
+
+{{- end -}}
