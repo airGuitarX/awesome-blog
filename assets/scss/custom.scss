@@ -2,3 +2,79 @@
 footer.site-footer .powerby {
     display: none !important;
 }
+
+/* === Description font size overrides === */
+
+/* Post list (homepage, tag pages, etc.) */
+.article-list .article-subtitle {
+  font-size: 1.5rem;   /* smaller than default */
+  line-height: 1;    /* optional: improve readability */
+}
+
+/* Single article page */
+.article-header .article-subtitle {
+  font-size: 1.6rem;
+}
+
+/* === narrower sidebar(TOC) === */
+
+.container.extended {
+    @include respond(md) {
+        --right-sidebar-max-width: 20%;  /* Reduced from 30% */
+    }
+    @include respond(lg) {
+        --right-sidebar-max-width: 20%;  /* Reduced from 30% */
+    }
+    @include respond(xl) {
+        --right-sidebar-max-width: 18%;  /* Reduced from 25% */
+    }
+}
+
+/* === Custom hyperlink style overrides (scoped) === */
+
+/* Define color variables */
+:root {
+  /* BRIGHT MODE */
+  --link-normal-color: #D46A00; /* Burnt Orange */
+  --link-visited-color: #0066AA; /* Steel Blue */
+  --link-hover-color: #CC5500;
+  --link-background-color: 255, 200, 0;
+  --link-background-opacity: 0.25;
+  --link-background-opacity-hover: 0.5;
+}
+
+[data-scheme="dark"] {
+  /* DARK MODE */
+  --link-normal-color: #FF9900; /* Bright Orange */
+  --link-visited-color: #66AADD; /* Lighter Blue */
+  --link-hover-color: #FFBB33;
+  --link-background-color: 255, 230, 0;
+  --link-background-opacity: 0.3;
+  --link-background-opacity-hover: 0.55;
+}
+
+/* Only apply inside actual article body and post list content */
+.article-content a,
+.article-list .article-description a {
+  text-decoration: none;
+  color: var(--link-normal-color);
+  transition: all 0.25s ease;
+
+  &:visited {
+    color: var(--link-visited-color);
+  }
+
+  &:hover {
+    color: var(--link-hover-color);
+  }
+
+  &.link {
+    box-shadow: 0px -2px 0px rgba(var(--link-background-color), var(--link-background-opacity)) inset;
+    transition: all 0.3s ease;
+
+    &:hover {
+      box-shadow: 0px calc(-1rem * var(--article-line-height))
+        0px rgba(var(--link-background-color), var(--link-background-opacity-hover)) inset;
+    }
+  }
+}
