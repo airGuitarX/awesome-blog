@@ -1,11 +1,11 @@
 ---
 title: 2025 找工总结
 author: RR
-description: 2025 找工总结
+description: 在经济下行的时候毅然加入了找工大军……
 slug: 2025-job-hunting-summary
 date: 2025-10-06 00:00:00+0000
 categories:
-    - work
+    - 工作
 tags:
     - jobhunting
     - leetcode

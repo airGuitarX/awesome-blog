@@ -2,16 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/p/indesign-fanbook-making/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/p/2025-job-hunting-summary/</loc>
     <lastmod>2025-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/indesign/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%E5%90%8C%E4%BA%BA/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%90%8C%E4%BA%BA%E6%9C%AC%E5%88%B6%E4%BD%9C/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/jobhunting/</loc>
@@ -23,16 +41,10 @@
     <loc>http://localhost:1313/page/</loc>
     <lastmod>2025-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/system-design/</loc>
     <lastmod>2025-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/work/</loc>
+    <loc>http://localhost:1313/categories/%E5%B7%A5%E4%BD%9C/</loc>
     <lastmod>2025-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
