@@ -19,6 +19,9 @@
       {{- end -}}
     {{- end -}}
     <meta name="description" content="{{ $desc | safeHTMLAttr }}">
+    
+    <!-- google-site-verification search console -->
+    <meta name="google-site-verification" content="LEq7Cyc-z9kmIPnm5_DHit4KmEYnhrTqPwCmn4cpkhc" />
   
     <!-- Google indexing -->
     <meta name="robots" content="index, follow">
@@ -35,7 +38,7 @@
     <meta name="twitter:title" content="{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
     <meta name="twitter:description" content="{{ $desc | safeHTMLAttr }}">
     <meta name="twitter:image" content="{{ .Site.Params.ogImage }}">
-    
+
     <!-- Canonical URL -->
     <link rel="canonical" href="{{ .Permalink }}">
 
