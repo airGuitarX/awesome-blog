@@ -4,6 +4,8 @@
 
 # Dev
 ```bash
+# builds the site in /public, always do this before push
+hugo
 # start local server
 hugo server 
 # start local server in draft mode, you can view draft post in this view

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>System Design on 玉米地</title>
-        <link>http://localhost:1313/tags/system-design/</link>
+        <link>https://airguitarx.github.io/cornfield/tags/system-design/</link>
         <description>Recent content in System Design on 玉米地</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/system-design/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>zh-Hans</language>
+        <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://airguitarx.github.io/cornfield/tags/system-design/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>2025 找工总结</title>
-        <link>http://localhost:1313/p/2025-job-hunting-summary/</link>
+        <link>https://airguitarx.github.io/cornfield/p/2025-job-hunting-summary/</link>
         <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/2025-job-hunting-summary/</guid>
+        <guid>https://airguitarx.github.io/cornfield/p/2025-job-hunting-summary/</guid>
         <description>&lt;h2 id=&#34;找工时间线与整体总结&#34;&gt;找工时间线与整体总结
 &lt;/h2&gt;&lt;p&gt;我： 8yoe, general SDE&lt;/p&gt;
 &lt;p&gt;去年11月左右全组人都跑光了，关系很好的同事要么离职要么转组，原组直接解散让我萌生了跑路的想法，加上公司准备从2025年开始RTO5，更不想呆了。被动并入姐妹组之后发现oncall十分阴间，于是立刻决定年底开始刷题。&lt;/p&gt;

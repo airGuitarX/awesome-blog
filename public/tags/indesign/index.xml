@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>InDesign on 玉米地</title>
-        <link>http://localhost:1313/tags/indesign/</link>
+        <link>https://airguitarx.github.io/cornfield/tags/indesign/</link>
         <description>Recent content in InDesign on 玉米地</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/indesign/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>zh-Hans</language>
+        <lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://airguitarx.github.io/cornfield/tags/indesign/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Abobe InDesign 制作同人本不完全查漏补缺</title>
-        <link>http://localhost:1313/p/indesign-fanbook-making/</link>
+        <link>https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/</link>
         <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/indesign-fanbook-making/</guid>
-        <description>&lt;img src="http://localhost:1313/p/indesign-fanbook-making/typography.jpg" alt="Featured image of post Abobe InDesign 制作同人本不完全查漏补缺" /&gt;&lt;p&gt;已经有很多专业人士写过各种新手向干货，我就不重复了，比如：&lt;/p&gt;
+        <guid>https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/</guid>
+        <description>&lt;img src="https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/typography.jpg" alt="Featured image of post Abobe InDesign 制作同人本不完全查漏补缺" /&gt;&lt;p&gt;已经有很多专业人士写过各种新手向干货，我就不重复了，比如：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://loveindesign.lofter.com/post/3d52ff_1c852e812&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;【导航】同人制作小教室文章一览-同人本制作私人小教室&lt;/a&gt;&lt;/li&gt;
@@ -26,10 +26,10 @@
 &lt;p&gt;这篇文章主要总结了一些我在初次使用InDesign时候碰到的问题，希望能帮到各位从零上手的朋友。&lt;/p&gt;
 &lt;h2 id=&#34;页面设置&#34;&gt;页面设置
 &lt;/h2&gt;&lt;h3 id=&#34;主页设置&#34;&gt;主页设置
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_0.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_0.png&#34;
 	width=&#34;383&#34;
 	height=&#34;364&#34;
-	srcset=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_0_hu_2612d775533ab12e.png 480w, http://localhost:1313/p/indesign-fanbook-making/indesign_0_hu_65c4da653fba1540.png 1024w&#34;
+	srcset=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_0_hu_2612d775533ab12e.png 480w, https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_0_hu_65c4da653fba1540.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;主页设置&#34;
@@ -50,10 +50,10 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;悬浮鼠标可查看某个页面已经应用的主页样式。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_1.png&#34;
 	width=&#34;211&#34;
 	height=&#34;95&#34;
-	srcset=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_1_hu_b883a7eb7356e559.png 480w, http://localhost:1313/p/indesign-fanbook-making/indesign_1_hu_588687988a138524.png 1024w&#34;
+	srcset=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_1_hu_b883a7eb7356e559.png 480w, https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_1_hu_588687988a138524.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;查看主页样式&#34;
@@ -66,10 +66,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;【A-主页】的样式：&lt;/p&gt;
 &lt;p&gt;这是我添加了页码和章节号之后的主页，也就是所有使用这个主页的页面都会显示页码，且在左面显示章节符号&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_2.png&#34;
 	width=&#34;1457&#34;
 	height=&#34;1050&#34;
-	srcset=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_2_hu_2ce54d759f4a4650.png 480w, http://localhost:1313/p/indesign-fanbook-making/indesign_2_hu_e84968c9df239514.png 1024w&#34;
+	srcset=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_2_hu_2ce54d759f4a4650.png 480w, https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_2_hu_e84968c9df239514.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;一种左面显示章节符号，两面显示页码的主页样式&#34;
@@ -80,10 +80,10 @@
 		data-flex-basis=&#34;333px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_3.png&#34;
 	width=&#34;466&#34;
 	height=&#34;267&#34;
-	srcset=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_3_hu_a422f9d75a69e6dd.png 480w, http://localhost:1313/p/indesign-fanbook-making/indesign_3_hu_55db577e07e61155.png 1024w&#34;
+	srcset=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_3_hu_a422f9d75a69e6dd.png 480w, https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_3_hu_55db577e07e61155.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;新建主页&#34;
@@ -97,10 +97,10 @@
 &lt;p&gt;也可以新建主页并采用更多样式，比如你要做图文合志，那么可以图片页使用A主页，文字页使用B主页这样。&lt;/p&gt;
 &lt;h3 id=&#34;一次性调整页边距&#34;&gt;一次性调整页边距
 &lt;/h3&gt;&lt;p&gt;比如一开始已经设定好了20mm的四边页边距，但是又想修改，应该怎么办呢？InDesign里文本框会自动适应版面大小，这里就需要选择主页再进行调整。【注意，以A-主页举例，两页都需要调整！】&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_4.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_4.png&#34;
 	width=&#34;599&#34;
 	height=&#34;475&#34;
-	srcset=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_4_hu_6f00cdc23d847ef8.png 480w, http://localhost:1313/p/indesign-fanbook-making/indesign_4_hu_a271a7acf583e30b.png 1024w&#34;
+	srcset=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_4_hu_6f00cdc23d847ef8.png 480w, https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_4_hu_a271a7acf583e30b.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;调整页边距&#34;
@@ -112,10 +112,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;选择主页的一面→菜单栏选择【边距和分栏】，修改边距（比如25mm）并勾选调整版面。这样左面就已经体现出了变化，对右面也做同样修改即可。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_5.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_5.png&#34;
 	width=&#34;1435&#34;
 	height=&#34;1016&#34;
-	srcset=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_5_hu_364fbb9759f5edae.png 480w, http://localhost:1313/p/indesign-fanbook-making/indesign_5_hu_6cda4301e8ee8fd8.png 1024w&#34;
+	srcset=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_5_hu_364fbb9759f5edae.png 480w, https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_5_hu_6cda4301e8ee8fd8.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;修改完A-主页的结果&#34;
@@ -141,10 +141,10 @@
 &lt;p&gt;（来自：&lt;a class=&#34;link&#34; href=&#34;https://www.uisdc.com/chinese-typesetting-3-principle&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://www.uisdc.com/chinese-typesetting-3-principle&lt;/a&gt;）&lt;/p&gt;
 &lt;p&gt;根据以上规则设置标点挤压集：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_6.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_6.png&#34;
 	width=&#34;463&#34;
 	height=&#34;564&#34;
-	srcset=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_6_hu_a14251d51c33de93.png 480w, http://localhost:1313/p/indesign-fanbook-making/indesign_6_hu_930416b1c8347001.png 1024w&#34;
+	srcset=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_6_hu_a14251d51c33de93.png 480w, https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_6_hu_930416b1c8347001.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;标点挤压集&#34;
@@ -157,10 +157,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;在段落里找到【中文排版集】→详细→并新建一个中文排版集（这里的开明式就是我自己新建的）&lt;/p&gt;
 &lt;p&gt;打开的详细面板里，&lt;strong&gt;上一类&lt;/strong&gt;指的选定的标点符号出现在左边，即控制与右边字符的距离；&lt;strong&gt;下一类&lt;/strong&gt;则表示选定的字符与左侧字符的距离。然后根据上诉规则设置自己想要的挤压参数。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_7.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_7.png&#34;
 	width=&#34;826&#34;
 	height=&#34;679&#34;
-	srcset=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_7_hu_871c3e734c48cfe2.png 480w, http://localhost:1313/p/indesign-fanbook-making/indesign_7_hu_effc404fb65e26d8.png 1024w&#34;
+	srcset=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_7_hu_871c3e734c48cfe2.png 480w, https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_7_hu_effc404fb65e26d8.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;标点挤压详细设置&#34;
@@ -176,10 +176,10 @@
 &lt;h3 id=&#34;目录格式&#34;&gt;目录格式
 &lt;/h3&gt;&lt;p&gt;Q: 为什么我的目录里的章节名和页码中间没有空格，而是页码紧跟着章节?&lt;/p&gt;
 &lt;p&gt;A: 需要在目录样式中选择【右对齐制表符】&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_8.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_8.png&#34;
 	width=&#34;693&#34;
 	height=&#34;647&#34;
-	srcset=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_8_hu_a90412e95f70452.png 480w, http://localhost:1313/p/indesign-fanbook-making/indesign_8_hu_57ed4194f4e95c01.png 1024w&#34;
+	srcset=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_8_hu_a90412e95f70452.png 480w, https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_8_hu_57ed4194f4e95c01.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;indesign_&#34;
@@ -192,10 +192,10 @@
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;数字竖排内横排设置&#34;&gt;数字竖排内横排设置
 &lt;/h3&gt;&lt;p&gt;打开字符小菜单的更多设置（三条线）&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_9.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_9.png&#34;
 	width=&#34;720&#34;
 	height=&#34;375&#34;
-	srcset=&#34;http://localhost:1313/p/indesign-fanbook-making/indesign_9_hu_df006bc7e8a01e40.png 480w, http://localhost:1313/p/indesign-fanbook-making/indesign_9_hu_552769a3b2d3104e.png 1024w&#34;
+	srcset=&#34;https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_9_hu_df006bc7e8a01e40.png 480w, https://airguitarx.github.io/cornfield/p/indesign-fanbook-making/indesign_9_hu_552769a3b2d3104e.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;数字竖排内横排设置&#34;
